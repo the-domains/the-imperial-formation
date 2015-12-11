@@ -1,7 +1,7 @@
 name: The Imperial Formation
 favicon: null
-layout_spectrum: 0.7404846223071218
-typography_spectrum: 0.012402838561683893
+layout_spectrum: 0.36601
+typography_spectrum: 0.95064
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.6114388380665332
-  lightness: 0.7540455579292029
-  saturation: 0.8087989594787359
-  rhythmicContrast: 0.2685497594065964
+    - '#000000'
+    - '#ffffff'
+    - '#454545'
+    - '#959595'
+    - '#676767'
+  brandStrength: 0.75
+  lightness: 0
+  saturation: 0.375
+  rhythmicContrast: 0.5
 purpose: []
